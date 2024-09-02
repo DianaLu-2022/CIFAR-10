@@ -35,8 +35,3 @@ This project explores the application of traditional computer vision techniques 
 - **SVM with HOG features** achieved an accuracy of 0.56, demonstrating its potential in handling detailed image features.
 - **Six-layer CNN models** achieved up to 0.84 accuracy, significantly outperforming traditional methods and highlighting the advantages of deep learning in complex visual data interpretation.
 
-## Installation
-
-1. Clone the repository.
-2. Install the required dependencies using:
-
