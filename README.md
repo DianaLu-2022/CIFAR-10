@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification using Machine Learning and Deep Learning Techniques
+# CIFAR-10 Image Classification
 
 ## Overview
 
